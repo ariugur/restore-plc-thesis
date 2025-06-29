@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this thesis or its datasets, please cite it as below."
+title: "The Influence of Emerging Information Technologies on Sectoral Transformation: A Case Study of Restore PLC"
+authors:
+  - family-names: Arı
+    given-names: Uğur
+    affiliation: "Istanbul University, Institute of Social Sciences"
+    orcid: "https://orcid.org/0009-0004-8554-2526 " 
+date-released: 2025-06-29
+version: "1.0"
+doi: "10.5281/zenodo.15768499"  # ileride Zenodo DOI alırsan burada güncellersin
+type: thesis
+license: "CC-BY-NC-ND-4.0"
+url: "https://github.com/ariugur/restore-plc-thesis"  # kendi repo URL'ini ekle
