@@ -37,9 +37,8 @@ Use the provided `CITATION.cff` or:
 @thesis{ari2025restore,
   title={The Influence of Emerging Information Technologies on Sectoral Transformation: A Case Study of Restore PLC},
   author={Uğur Arı},
-  school={İstanbul Üniversitesi, Sosyal Bilimler Enstitüsü},
+  school={Istanbul University, Institute of Social Sciences},
   year={2025},
-  type={Yüksek Lisans Tezi}
+  type={Master's Thesis}
 }
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
