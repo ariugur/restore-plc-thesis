@@ -65,6 +65,8 @@ Arı, Uğur. *The Influence of Emerging Information Technologies on Sectoral Tra
   year={2025},
   type={Master's Thesis}
 }
+```
+
 # The Influence of Emerging Information Technologies on Sectoral Transformation:
 ## A Case Study of Restore PLC
 
@@ -75,3 +77,4 @@ Arı, Uğur. *The Influence of Emerging Information Technologies on Sectoral Tra
 
 ### 📚 Abstract
 This repository contains all materials related to my master's thesis...
+
