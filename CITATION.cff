@@ -8,7 +8,7 @@ authors:
     orcid: "https://orcid.org/0009-0004-8554-2526 " 
 date-released: 2025-06-29
 version: "1.0"
-doi: "10.5281/zenodo.15768499"  # ileride Zenodo DOI alırsan burada güncellersin
+doi: "10.5281/zenodo.15768499" 
 type: thesis
 license: "CC-BY-NC-ND-4.0"
-url: "https://github.com/ariugur/restore-plc-thesis"  # kendi repo URL'ini ekle
+url: "https://github.com/ariugur/restore-plc-thesis"  
