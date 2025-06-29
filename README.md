@@ -14,6 +14,13 @@ Supervisor: Prof. Dr. Niyazi Çiçek
 (Completed: 2025)
 
 ---
+# The Influence of Emerging Information Technologies on Sectoral Transformation:
+## A Case Study of Restore PLC
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![DOI](https://zenodo.org/badge/1010655385.svg)](https://doi.org/10.5281/zenodo.15768499)
+
+---
 
 ### 📚 Abstract
 This study examines how Restore PLC, a UK-based information & records management group, leveraged emerging digital technologies to transform its sectoral positioning. It explores financial growth, mergers & acquisitions strategy, and the company's evolution from a traditional archiving service into a diversified digital ecosystem.
@@ -66,15 +73,3 @@ Arı, Uğur. *The Influence of Emerging Information Technologies on Sectoral Tra
   type={Master's Thesis}
 }
 ```
-
-# The Influence of Emerging Information Technologies on Sectoral Transformation:
-## A Case Study of Restore PLC
-
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![DOI](https://zenodo.org/badge/1010655385.svg)](https://doi.org/10.5281/zenodo.15768499)
-
----
-
-### 📚 Abstract
-This repository contains all materials related to my master's thesis...
-
