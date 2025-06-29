@@ -30,6 +30,15 @@ This study examines how Restore PLC, a UK-based information & records management
 
 ---
 
+## 🌐 Restore PLC Ecosystem
+
+![Restore PLC Ecosystem](figures/restore-ecosystem-diagram.png)
+
+> *Figure: The operational ecosystem of Restore PLC, illustrating its diversified service lines such as records management, secure disposal, IT asset relocations, scanning, and shredding.*
+
+
+---
+
 ## 📖 How to cite this thesis
 
 ### APA (7th edition)
