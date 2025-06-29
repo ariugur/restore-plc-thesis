@@ -30,9 +30,24 @@ This study examines how Restore PLC, a UK-based information & records management
 
 ---
 
-### 🚀 How to cite
-Use the provided `CITATION.cff` or:
+## 📖 How to cite this thesis
 
+### APA (7th edition)
+Arı, U. (2025). *The influence of emerging information technologies on sectoral transformation: A case study of Restore PLC* (Master’s thesis). Istanbul University, Institute of Social Sciences.
+
+---
+
+### Chicago (17th edition)
+Arı, Uğur. 2025. *The Influence of Emerging Information Technologies on Sectoral Transformation: A Case Study of Restore PLC*. Master’s thesis, Istanbul University, Institute of Social Sciences.
+
+---
+
+### MLA (9th edition)
+Arı, Uğur. *The Influence of Emerging Information Technologies on Sectoral Transformation: A Case Study of Restore PLC*. Master’s thesis, Istanbul University, Institute of Social Sciences, 2025.
+
+---
+
+### BibTeX
 ```bibtex
 @thesis{ari2025restore,
   title={The Influence of Emerging Information Technologies on Sectoral Transformation: A Case Study of Restore PLC},
@@ -41,4 +56,3 @@ Use the provided `CITATION.cff` or:
   year={2025},
   type={Master's Thesis}
 }
-
